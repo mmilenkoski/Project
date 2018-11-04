@@ -18,16 +18,13 @@ For this project, we plan to use the GDELT dataset enriched with datasets for co
 
 We plan to enrich this information with other datasets including, but not limited to:
 
-1. **Political Stability And Absence Of Violence/Terrorism**: Estimates likelihood of political instability and politically-motivated violence for each country. 
-
+1. **Political Stability And Absence Of Violence/Terrorism**: Estimates likelihood of political instability and politically-motivated violence for each country.  
 https://datacatalog.worldbank.org/political-stability-and-absence-violenceterrorism-estimate
   
-2. **Worldwide Governance Indicators**: Provides governance indicators in respect to Voice and Accountability, Political Stability and Absence of Violence, Government Effectiveness, Regulatory Quality,Rule of Law and Control of Corruption. 
-
+2. **Worldwide Governance Indicators**: Provides governance indicators in respect to Voice and Accountability, Political Stability and Absence of Violence, Government Effectiveness, Regulatory Quality,Rule of Law and Control of Corruption.  
 https://datacatalog.worldbank.org/dataset/worldwide-governance-indicators 
 
-3. **World Development Indicators**: Includes more than 800 estimators covering more than 150 different economies. Provides national, regional, and global estimates.
-
+3. **World Development Indicators**: Includes more than 800 estimators covering more than 150 different economies. Provides national, regional, and global estimates.  
 https://datacatalog.worldbank.org/dataset/world-development-indicators  
 
 In general, the site https://data.worldbank.org/ provides many datasets for country-specific year-by-year statistics, and we will decide which ones to use depending on the factors by which we want to compare different countries. 
