@@ -48,4 +48,5 @@ In general, the site https://data.worldbank.org/ provides many datasets for coun
   • Provide illustrative visualizations and understandable results.
 
 # Questions for TAa
-Add here some questions you have for us, in general or project-specific.
+1. Do you know any other datasets which might be useful for our project?
+2. Do you know any previous work on this or similar topic, such as papers or articles, which we might use for inspiration and additional ideas?
