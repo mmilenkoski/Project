@@ -1,7 +1,12 @@
 # Title
 
 # Abstract
-A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
+
+The last couple of years have been defined by the dramatically increasing political polarization of the World. The main idea of this project is to investigate the main causes and effects of this massive shift in the political landscape.
+
+By observing the countries which were most affected by the populist movement, we want to identify the main factors that contribute to this trend. Our plan is to analyze the effect of terrorist attacks, immigration waves and similar events on the likelihood of a country’s population to vote for right-leaning parties.
+
+The final idea is to investigate whether the claim of the populists that nationalism would increase the safety and prosperity of the country is justified by comparing the social and economic stability of countries under liberal and conservative governments. For this purpose, we will primarily use the GDELT dataset, enriched with datasets for country-specific statistics. 
 
 # Research questions
 A list of research questions you would like to address during the project. 
