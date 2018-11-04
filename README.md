@@ -31,16 +31,16 @@ In general, the site https://data.worldbank.org/ provides many datasets for coun
 
 # A list of internal milestones up until project milestone 2
 ## Milestone 2.1
-    • Explore the GDELT dataset in detail, identify the relevant information and perform data wrangling and preprocessing.
-    • Explore additional literature (papers, articles, similar projects) that might give us interesting insights and additional ideas on creating the data story.
-    • Explore datasets containing statistics for the safety, economic growth and quality of life in each country.
-    • Obtain an initial understanding on how to utilize the cluster for the processing of the GDELT dataset.
+  • Explore the GDELT dataset in detail, identify the relevant information and perform data wrangling and preprocessing.
+  • Explore additional literature (papers, articles, similar projects) that might give us interesting insights and additional ideas on creating the data story.
+  • Explore datasets containing statistics for the safety, economic growth and quality of life in each country.
+  • Obtain an initial understanding on how to utilize the cluster for the processing of the GDELT dataset.
 ## Milestone 2.2
-    • Combine the GDELT datasets with the extracted relevant statistics from the other datasets in order to draw some preliminary conclusions concerning the research questions.
-    • Explore different methods for the data visualization.
+  • Combine the GDELT datasets with the extracted relevant statistics from the other datasets in order to draw some preliminary conclusions concerning the research questions.
+  • Explore different methods for the data visualization.
 ## Milestone 2.3
-    • Add the necessary documentation to the notebook, as well as explanation of the used methods so that it is understandable for examination.
-    • Provide illustrative visualizations and understandable results.
+  • Add the necessary documentation to the notebook, as well as explanation of the used methods so that it is understandable for examination.
+  • Provide illustrative visualizations and understandable results.
 
 # Questions for TAa
 Add here some questions you have for us, in general or project-specific.
