@@ -18,19 +18,22 @@ For this project, we plan to use the GDELT dataset enriched with datasets for co
 
 We plan to enrich this information with other datasets including, but not limited to:
 
-1. Political Stability And Absence Of Violence/Terrorism: Estimates likelihood of political instability and politically-motivated violence for each country. 
+1. **Political Stability And Absence Of Violence/Terrorism**: Estimates likelihood of political instability and politically-motivated violence for each country. 
+
 https://datacatalog.worldbank.org/political-stability-and-absence-violenceterrorism-estimate
   
-2. Worldwide Governance Indicators: Provides governance indicators in respect to Voice and Accountability, Political Stability and Absence of Violence, Government Effectiveness, Regulatory Quality,Rule of Law and Control of Corruption. 
+2. **Worldwide Governance Indicators**: Provides governance indicators in respect to Voice and Accountability, Political Stability and Absence of Violence, Government Effectiveness, Regulatory Quality,Rule of Law and Control of Corruption. 
+
 https://datacatalog.worldbank.org/dataset/worldwide-governance-indicators 
 
-3. World Development Indicators: Includes more than 800 estimators covering more than 150 different economies. Provides national, regional, and global estimates.
+3. **World Development Indicators**: Includes more than 800 estimators covering more than 150 different economies. Provides national, regional, and global estimates.
+
 https://datacatalog.worldbank.org/dataset/world-development-indicators  
 
 In general, the site https://data.worldbank.org/ provides many datasets for country-specific year-by-year statistics, and we will decide which ones to use depending on the factors by which we want to compare different countries. 
 
 # A list of internal milestones up until project milestone 2
-## Milestone 2.1
+### Milestone 2.1
   • Explore the GDELT dataset in detail, identify the relevant information and perform data wrangling and preprocessing.
   
   • Explore additional literature (papers, articles, similar projects) that might give us interesting insights and additional ideas on creating the data story.
@@ -38,11 +41,11 @@ In general, the site https://data.worldbank.org/ provides many datasets for coun
   • Explore datasets containing statistics for the safety, economic growth and quality of life in each country.
   
   • Obtain an initial understanding on how to utilize the cluster for the processing of the GDELT dataset.
-## Milestone 2.2
+### Milestone 2.2
   • Combine the GDELT datasets with the extracted relevant statistics from the other datasets in order to draw some preliminary conclusions concerning the research questions.
   
   • Explore different methods for the data visualization.
-## Milestone 2.3
+### Milestone 2.3
   • Add the necessary documentation to the notebook, as well as explanation of the used methods so that it is understandable for examination.
   
   • Provide illustrative visualizations and understandable results.
