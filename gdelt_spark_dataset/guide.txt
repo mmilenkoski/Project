@@ -1,0 +1,30 @@
+FileZila - great GUI for running FTP
+
+1. Connect to the cluster node via ssh
+ssh gaspracc@iccluster028.iccluster.epfl.ch
+
+
+2. Prepare the filter script
+# Copy filter.py to server
+# And change the last line in the script!!!
+
+
+3. Run the filter script with "spark-submit"
+# Submit spark job
+spark-submit --master yarn --deploy-mode cluster --driver-memory 8G --num-executors 10 --executor-memory 8G --executor-cores 5 filter.py
+
+
+4. Copy the HDFS saved results in the home directory of the cluster node
+# Change mitrevsk with gaspr account (this copies the result locally on the node)
+hadoop fs -get /user/mitrevsk/data_frame.parquet data_frame.parquet
+
+
+5. Transfer the resulting dataset locally
+# Just grab the "data_frame.parquet" folder locally with the help of FileZile or any other favoruite FTP client
+
+
+6. Be sure to delete the generated HDFS dataset and the dataset stored in the home directory of the cluster node to free up memory
+# Remove HDFS file - change "mitrevsk" with "gaspracc"
+hadoop fs -rm -r -f /user/mitrevsk/data_frame.parquet
+# Remove the file from the cluster node
+rm -r data_frame.parquet

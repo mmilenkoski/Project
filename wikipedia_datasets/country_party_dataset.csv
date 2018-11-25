@@ -1,0 +1,288 @@
+,Country,ISO2,Party,Votes_last,Votes %_last,Seats_last,Seats %_last,Votes_previous,Votes %_previous,Seats_previous,Seats %_previous,Political_position
+0,Austria,AT,Austrian Peoples Party,1595526,31.5,62,33.879781420765,1125876,23.99,47,25.6830601092896,centre-right
+1,Austria,AT,Social Democratic Party of Austria,1361746,26.9,52,28.4153005464481,1258605,26.82,52,28.4153005464481,centre-left
+2,Austria,AT,Freedom Party of Austria,1316442,26,51,27.8688524590164,962313,20.51,40,21.8579234972678,right-wing to far-right
+3,Austria,AT,NEOS – The New Austria,268518,5.3,10,5.46448087431694,232946,4.96,9,4.91803278688525,centre
+4,Austria,AT,Peter Pilz List (PILZ),223543,4.4,8,4.37158469945355,0,0,0,0,centre-left to left-wing
+5,Austria,AT,The Greens – The Green Alternative,192638,3.8,0,0,582657,12.42,24,13.1147540983607,centre-left
+6,Austria,AT,Team Stronach,0,0,0,0,268679,5.73,11,6.01092896174863,centre-right to right-wing
+7,Belgium,BE,New Flemish Alliance,1366414,20.26,33,22,1135617,17.4,27,18,right-wing
+8,Belgium,BE,Socialist Party,787165,11.67,23,15.3333333333333,894543,13.7,26,17.3333333333333,centre-left
+9,Belgium,BE,Christian Democratic & Flemish,783060,11.61,18,12,707986,10.85,17,11.3333333333333,centre to centre-right
+10,Belgium,BE,Open Flemish Liberals and Democrats,659582,9.78,14,9.33333333333333,563873,8.64,13,8.66666666666667,centre-right
+11,Belgium,BE,Reformist Movement,650290,9.64,20,13.3333333333333,605617,9.28,18,12,centre-right
+12,Belgium,BE,Socialist Party – Differently,595486,8.83,13,8.66666666666667,602867,9.24,13,8.66666666666667,centre-left
+13,Belgium,BE,Green!,358947,5.32,6,4,285989,4.38,5,3.33333333333333,centre-left to left-wing
+14,Belgium,BE,Humanist Democratic Centre,336281,4.99,9,6,360441,5.52,9,6,centre
+15,Belgium,BE,Workers Party,251289,3.72,2,1.33333333333333,101088,1.55,0,0,far-left
+16,Belgium,BE,Flemish Interest,247746,3.67,3,2,506697,7.76,12,8,right-wing to far-right
+17,Belgium,BE,Ecolo,222551,3.3,6,4,313047,4.8,8,5.33333333333333,left-wing
+18,Belgium,BE,Francophone Democratic Federalists,121403,1.8,2,1.33333333333333,0,0,0,0,centre to centre-right
+19,Belgium,BE,Peoples Party,102599,1.51,1,0.666666666666667,84005,1.29,1,0.666666666666667,right-wing to far-right
+20,Belgium,BE,Libertarian Direct Democratic,28414,0.42,0,0,150577,2.31,1,0.666666666666667,right-wing
+21,Bulgaria,BG,GERB,1147292,32.67,95,39.5833333333333,1072491,32.67,84,35,centre-right
+22,Bulgaria,BG,BSP for Bulgaria,955490,27.93,80,33.3333333333333,505527,15.4,39,16.25,centre-left to left-wing
+23,Bulgaria,BG,United Patriots,318513,9.31,27,11.25,0,0,0,0,right-wing to far-right
+24,Bulgaria,BG,Movement for Rights and Freedoms,315976,9.24,26,10.8333333333333,487134,14.84,38,15.8333333333333,centre
+25,Bulgaria,BG,Volya,145637,4.26,12,5,0,0,0,0,centre-right
+26,Bulgaria,BG,Reformist Bloc,107407,3.06,0,0,291806,8.89,23,9.58333333333333,centre-right
+27,Bulgaria,BG,Patriotic Front,0,0,0,0,239101,7.28,19,7.91666666666667,right-wing
+28,Bulgaria,BG,Bulgaria without Censorship,0,0,0,0,186938,5.69,15,6.25,centre-right
+29,Bulgaria,BG,Attack,0,0,0,0,148262,4.52,11,4.58333333333333,far-right
+30,Bulgaria,BG,Alternative for Bulgarian Revival,0,0,0,0,136223,4.15,11,4.58333333333333,centre-left
+31,Croatia,HR,HDZ Coalition,682687,36.27,59,42.4460431654676,746626,33.36,56,40.2877697841727,centre-right to right-wing
+32,Croatia,HR,'People''s Coalition',636602,33.82,54,38.8489208633093,742909,33.2,56,40.2877697841727,centre-left
+33,Croatia,HR,Bridge of Independent Lists,186626,9.91,13,9.35251798561151,302453,13.51,19,13.6690647482014,centre to centre-right
+34,Croatia,HR,The Only Option Coalition,117208,6.23,8,5.75539568345324,94877,4.24,1,0.719424460431655,syncretic
+35,Croatia,HR,For Prime Minister Coalition,76054,4.04,2,1.43884892086331,74301,3.32,2,1.43884892086331,centre to centre-left
+36,Croatia,HR,Even Stronger Istria Coalition,43180,2.29,3,2.15827338129496,42193,1.83,3,2.15827338129496,centre-left
+37,Croatia,HR,Croatian Democratic Alliance of Slavonia and Baranja,0,0,0,0,30443,1.36,2,1.43884892086331,right-wing
+38,Cyprus,CY,Democratic Rally (DISY),107825,30.69,18,32.1428571428571,138682,34.28,20,35.7142857142857,centre-right
+39,Cyprus,CY,Progressive Party of Working People (AKEL),90204,25.67,16,28.5714285714286,132171,32.67,19,33.9285714285714,left-wing to far-left
+40,Cyprus,CY,Democratic Party (DIKO),50923,14.49,9,16.0714285714286,63763,15.76,9,16.0714285714286,centre to centre-right
+41,Cyprus,CY,Movement for Social Democracy (EDEK),21732,6.18,3,5.35714285714286,36113,8.93,5,8.92857142857143,centre-left
+42,Cyprus,CY,Citizens Alliance (SYPOL),21114,6.01,3,5.35714285714286,0,0,0,0,centre
+43,Cyprus,CY,Solidarity Movement (KA),18424,5.24,3,5.35714285714286,0,0,0,0,right-wing
+44,Cyprus,CY,Movement of Ecologists – Citizens Cooperation (KOSP),16909,4.81,2,3.57142857142857,8960,2.21,1,1.78571428571429,centre-left
+45,Cyprus,CY,National Popular Front (ELAM),13041,3.71,2,3.57142857142857,4354,1.08,0,0,far-right
+46,Cyprus,CY,European Party (EVROKO),0,0,0,0,15711,3.88,2,3.57142857142857,right-wing
+47,Czech Republic,CZ,ANO 2011,1500113,29.64,78,39,927240,18.66,47,23.5,centre to centre-right
+48,Czech Republic,CZ,Civic Democratic Party,572962,11.32,25,12.5,384174,7.73,16,8,centre-right to right-wing
+49,Czech Republic,CZ,Czech Pirate Party,546393,10.79,22,11,132417,2.66,0,0,centre to centre-left
+50,Czech Republic,CZ,Freedom and Direct Democracy,538574,10.64,22,11,0,0,0,0,right-wing to far-right
+51,Czech Republic,CZ,Communist Party of Bohemia and Moravia,393100,7.76,15,7.5,741044,14.91,33,16.5,left-wing to far-left
+52,Czech Republic,CZ,Czech Social Democratic Party,368347,7.27,15,7.5,1016829,20.46,50,25,centre-left
+53,Czech Republic,CZ,Christian and Democratic Union – Czechoslovak Peoples Party,293643,5.8,10,5,336970,6.78,14,7,centre to centre-right
+54,Czech Republic,CZ,TOP 09,268811,5.31,7,3.5,596357,12,26,13,centre-right
+55,Czech Republic,CZ,Mayors and Independents,262157,5.18,6,3,0,0,0,0,centre to centre-right
+56,Czech Republic,CZ,Dawn of Direct Democracy,0,0,0,0,342339,6.89,14,7,right-wing
+57,Denmark,DK,Social Democrats (A),924940,26.3,47,26.8571428571429,879615,24.8,44,25.1428571428571,centre-left
+58,Denmark,DK,Danish Peoples Party (O),741746,21.1,37,21.1428571428571,436726,12.3,22,12.5714285714286,right-wing to far-right
+59,Denmark,DK,Liberals (Venstre Danmarks Liberale Parti) (V),685188,19.5,34,19.4285714285714,947725,26.7,47,26.8571428571429,centre-right
+60,Denmark,DK,Red–Green Alliance (O),274463,7.8,14,8,236860,6.7,12,6.85714285714286,left-wing to far-left
+61,Denmark,DK,Liberal Alliance (I),265129,7.5,13,7.42857142857143,176585,5,9,5.14285714285714,centre-right
+62,Denmark,DK,The Alternative (A),168788,4.8,9,5.14285714285714,0,0,0,0,centre-left
+63,Denmark,DK,Danish Social Liberal Party (B),161009,4.6,8,4.57142857142857,336698,9.5,17,9.71428571428571,centre to centre-left
+64,Denmark,DK,Socialist Peoples Party (F),147578,4.2,7,4,326192,9.2,16,9.14285714285714,left-wing
+65,Denmark,DK,Conservative Peoples Party (C),118003,3.4,6,3.42857142857143,175047,4.9,8,4.57142857142857,centre-right
+66,Estonia,EE,Estonian Reform Party,158970,27.7,30,29.7029702970297,164255,28.6,33,32.6732673267327,centre-right
+67,Estonia,EE,Estonian Centre Party,142458,24.8,27,26.7326732673267,134124,23.3,26,25.7425742574257,centre to centre-left
+68,Estonia,EE,Social Democratic Party,87189,15.2,15,14.8514851485149,98307,17.1,19,18.8118811881188,centre-left
+69,Estonia,EE,Pro Patria and Res Publica Union,78699,13.7,14,13.8613861386139,118023,20.5,23,22.7722772277228,centre-right
+70,Estonia,EE,Free Party,49882,8.7,8,7.92079207920792,0,0,0,0,centre-right
+71,Estonia,EE,Conservative Peoples Party,46772,8.1,7,6.93069306930693,0,0,0,0,right-wing
+72,Finland,FI,Centre Party,626218,21.1,49,24.5,463266,15.8,35,17.5,centre
+73,Finland,FI,Finns Party,524054,17.65,38,19,560075,19.1,39,19.5,right-wing
+74,Finland,FI,National Coalition Party,540212,18.2,37,18.5,599138,20.4,44,22,centre-right
+75,Finland,FI,Social Democratic Party,490102,16.51,34,17,561558,19.1,42,21,centre-left
+76,Finland,FI,Green League,253102,8.53,15,7.5,213172,7.3,10,5,centre-left
+77,Finland,FI,Left Alliance,211702,7.13,12,6,239039,8.1,14,7,left-wing
+78,Finland,FI,'Swedish People''s Party of Finland',144802,4.88,9,4.5,125785,4.3,9,4.5,centre
+79,Finland,FI,Christian Democrats,105134,3.54,5,2.5,118453,4,6,3,centre-right
+80,Finland,FI,Aland Coalition,10910,0.37,1,0.5,8546,0.3,1,0.5,centre-right
+81,France,FR,La République En Marche!,7826245,43.06,308,53.3795493934142,0,0,0,0,centre
+82,France,FR,Democratic Movement,1100656,6.06,42,7.2790294627383,0,0,0,0,centre to centre-right
+83,France,FR,The Republicans,4040203,22.23,112,19.4107452339688,0,0,0,0,centre-right
+84,France,FR,Union of Democrats and Independents,551784,3.04,18,3.11958405545927,0,0,0,0,centre to centre-right
+85,France,FR,Miscellaneous right,306074,1.68,6,1.03986135181976,417940,1.81,15,2.59965337954939,right-wing
+86,France,FR,Socialist Party,1032842,5.68,30,5.19930675909879,9420889,40.91,280,48.526863084922,centre-left
+87,France,FR,Miscellaneous left,263488,1.45,12,2.07972270363951,709395,3.08,22,3.81282495667244,left-wing
+88,France,FR,Radical Party of the Left,64860,0.36,3,0.519930675909879,538331,2.34,12,2.07972270363951,centre-left
+89,France,FR,La France Insoumise,883573,4.86,17,2.94627383015598,0,0,0,0,left-wing
+90,France,FR,French Communist Party,217833,1.2,10,1.73310225303293,0,0,0,0,far-left
+91,France,FR,National Front,1590869,8.75,8,1.38648180242634,842695,3.66,2,0.346620450606586,right-wing to far-right
+92,France,FR,Regionalists,137490,0.76,5,0.866551126516464,135312,0.59,2,0.346620450606586,centre
+93,France,FR,Miscellaneous,100574,0.55,3,0.519930675909879,0,0,0,0,centre
+94,France,FR,Ecologists,23197,0.13,1,0.173310225303293,0,0,0,0,centre-left
+95,France,FR,Debout la France,17344,0.1,1,0.173310225303293,0,0,0,0,right-wing to far-right
+96,France,FR,Far-right,19034,0.1,1,0.173310225303293,29738,0.13,1,0.173310225303293,right-wing
+97,France,FR,Europe Ecology – The Greens,0,0,0,0,829036,3.6,17,2.94627383015598,centre-left
+98,France,FR,Union for a Popular Movement,0,0,0,0,8740628,37.95,194,33.6221837088388,centre-right
+99,France,FR,New Centre,0,0,0,0,568319,2.47,12,2.07972270363951,centre to centre-right
+100,France,FR,Left Front,0,0,0,0,249498,1.08,10,1.73310225303293,left-wing to far-left
+101,France,FR,Centre for France,0,0,0,0,113196,0.49,2,0.346620450606586,centre
+102,France,FR,Centrist Alliance,0,0,0,0,123132,0.53,2,0.346620450606586,centre
+103,France,FR,Radical Party,0,0,0,0,311211,1.35,6,1.03986135181976,centre-right
+104,Germany,DE,Christian Democratic Union,14030751,30.2,185,61.8729096989967,16233642,37.2,191,63.8795986622074,centre-right
+105,Germany,DE,Social Democratic Party,11429231,24.6,59,19.7324414715719,12843458,29.4,58,19.3979933110368,centre-left
+106,Germany,DE,Alternative for Germany,5317499,11.5,3,1.00334448160535,810915,1.9,0,0,right-wing to far-right
+107,Germany,DE,The Left,3966637,8.6,5,1.67224080267559,3585178,8.2,4,1.33779264214047,left-wing to far-left
+108,Germany,DE,Alliance 90/The Greens,3717922,8,1,0.334448160535117,3180299,7.3,1,0.334448160535117,centre-left
+109,Germany,DE,Christian Social Union in Bavaria,3255487,7,46,15.3846153846154,3544079,8.1,45,15.0501672240803,centre-right
+110,Greece,GR,Coalition of the Radical Left (SYRIZA),1926526,35.46,145,48.3333333333333,1655022,26.89,71,23.6666666666667,left-wing
+111,Greece,GR,New Democracy (ND),1526205,28.09,75,25,1825497,29.66,129,43,centre-right
+112,Greece,GR,Popular Association-Golden Dawn (ΧΑ),379722,6.99,18,6,426025,6.92,18,6,far-right
+113,Greece,GR,Democratic Coalition (PASOK-DIMAR),341732,6.29,17,5.66666666666667,1141010,18.53,50,16.6666666666667,centre-left
+114,Greece,GR,Communist Party of Greece (KKE),301684,5.55,15,5,277227,4.5,12,4,far-left
+115,Greece,GR,The River (Potami),222349,4.09,11,3.66666666666667,0,0,0,0,centre to centre-left
+116,Greece,GR,Independent Greeks (ANEL),200532,3.69,10,3.33333333333333,462406,7.51,20,6.66666666666667,right-wing
+117,Greece,GR,Union of Centrists (EK),186644,3.44,9,3,17145,0.28,0,0,centre
+118,Hungary,HU,Fidesz – Hungarian Civic Union,2636201,47.89,91,86.6666666666667,1082672,21.450230546,87,82.0754716981132,right-wing
+119,Hungary,HU,Jobbik – Movement for a Better Hungary,1276840,23.2,1,0.952380952380952,1020476,20.2180029453003,0,0,right-wing to far-right
+120,Hungary,HU,Hungarian Socialist Party,622458,11.31,8,7.61904761904762,439292,8.703416021,8,7.54716981132076,centre-left
+121,Hungary,HU,Politics Can Be Different,312731,5.68,1,0.952380952380952,269414,5.3377179331069,0,0,centre-left
+122,Hungary,HU,Democratic Coalition,348176,6.33,3,2.85714285714286,439294,8.703416021,1,0.943396226415094,centre-left
+123,Hungary,HU,Together – Party for a New Era,58591,1.06,1,0.952380952380952,439295,8.703416021,1,0.943396226415094,centre
+124,Hungary,HU,'Christian Democratic People''s Party',0,0,0,0,1082670,21.450230546,9,8.49056603773585,centre-right to right-wing
+125,Ireland,IR,Fine Gael,544140,25.5,49,35.5072463768116,801628,36.1,76,50,centre-right
+126,Ireland,IR,Fianna Fáil,519356,24.3,44,31.8840579710145,387358,17.5,20,13.1578947368421,centre to centre-right
+127,Ireland,IR,Sinn Féin,295319,13.8,23,16.6666666666667,220661,9.9,14,9.21052631578947,centre-left to left-wing
+128,Ireland,IR,Labour Party,140898,6.6,7,5.07246376811594,431796,19.5,37,24.3421052631579,centre-left
+129,Ireland,IR,People Before Profit,84168,3.9,6,4.34782608695652,21551,1,2,1.31578947368421,left-wing to far-left
+130,Ireland,IR,Inds. 4 Change,31365,1.5,4,2.89855072463768,0,0,0,0,left-wing
+131,Ireland,IR,Social Democrats,64094,3,3,2.17391304347826,0,0,0,0,centre-left
+132,Ireland,IR,Green Party,57999,2.7,2,1.44927536231884,41039,1.8,0,0,centre-left
+133,Ireland,IR,Socialist Party,0,0,0,0,26770,1.2,2,1.31578947368421,far-left
+134,Ireland,IR,Workers and Unemployed Action,0,0,0,0,8818,0.4,1,0.657894736842105,left-wing
+135,Italy,IT,Five Star Movement,10732066,32.68,133,34.4559585492228,8691406,25.56,108,17.5040518638574,big tent
+136,Italy,IT,Democratic Party,6161896,18.76,86,22.279792746114,8646034,25.43,292,47.3257698541329,centre-left
+137,Italy,IT,League,5698687,17.35,73,18.9119170984456,0,0,0,0,right-wing to far-right
+138,Italy,IT,Forza Italia,4596956,14,59,15.2849740932642,0,0,0,0,centre-right
+139,Italy,IT,Brothers of Italy,1429550,4.35,19,4.92227979274611,666765,1.96,9,1.45867098865478,centre-right
+140,Italy,IT,Free and Equal,1114799,3.39,14,3.62694300518135,0,0,0,0,left-wing
+141,Italy,IT,SVP–PATT,134651,0.41,2,0.518134715025907,0,0,0,0,centre
+142,Italy,IT,Left Ecology Freedom,0,0,0,0,1089231,3.2,37,5.9967585089141,left-wing
+143,Italy,IT,Democratic Centre,0,0,0,0,167328,0.49,6,0.972447325769854,centre
+144,Italy,IT,South Tyrolean Peoples Party,0,0,0,0,146800,0.43,5,0.810372771474878,centre
+145,Italy,IT,The People of Freedom,0,0,0,0,7332134,21.56,97,15.7212317666126,centre-right
+146,Italy,IT,Northern League,0,0,0,0,1390534,4.09,18,2.91734197730956,right-wing to far-right
+147,Italy,IT,Civic Choice,0,0,0,0,2823842,8.3,37,5.9967585089141,centre
+148,Italy,IT,Union of the Centre,0,0,0,0,608321,1.79,8,1.29659643435981,centre to centre-right
+149,Latvia,LV,Harmony,167117,19.8,23,23,209887,23,24,24,centre-left
+150,Latvia,LV,Who owns the state?,120264,14.25,16,16,0,0,0,0,right-wing
+151,Latvia,LV,New Conservative Party,114694,13.59,16,16,6389,0.7,0,0,centre-right to right-wing
+152,Latvia,LV,Development/For!,101685,12.04,13,13,0,0,0,0,centre to centre-right
+153,Latvia,LV,National Alliance,92963,11.01,13,13,151567,16.61,17,17,right-wing to far-right
+154,Latvia,LV,Union of Greens and Farmers,83675,9.91,11,11,178210,19.53,21,21,centre to centre-right
+155,Latvia,LV,New Unity,56542,6.69,8,8,199535,21.87,23,23,centre to centre-right
+156,Latvia,LV,For Latvia from the Heart,7114,0.84,0,0,62521,6.85,7,7,right-wing
+157,Latvia,LV,Latvian Association of Regions,35018,4.14,0,0,60812,6.66,8,8,centre
+158,Iceland,IS,Independence Party,49543,25.2,16,25.3968253968254,54990,29,21,33.3333333333333,centre-right to right-wing
+159,Iceland,IS,Left-Green Movement,33155,16.9,11,17.4603174603175,30166,15.91,10,15.8730158730159,centre-left to left-wing
+160,Iceland,IS,Social Democratic Alliance,23652,12.1,7,11.1111111111111,10893,5.74,3,4.76190476190476,centre-left
+161,Iceland,IS,Centre Party,21335,10.9,7,11.1111111111111,0,0,0,0,centre
+162,Iceland,IS,Progressive Party,21016,10.7,8,12.6984126984127,21791,11.49,8,12.6984126984127,centre to centre-right
+163,Iceland,IS,Pirate Party,18051,9.2,6,9.52380952380952,27449,14.48,10,15.8730158730159,syncretic
+164,Iceland,IS,Peoples Party,13502,6.9,4,6.34920634920635,6707,3.54,0,0,centre
+165,Iceland,IS,Reform Party,13122,6.7,4,6.34920634920635,19870,10.48,7,11.1111111111111,centre
+166,Iceland,IS,Bright Future,2394,1.2,0,0,13578,7.16,4,6.34920634920635,centre
+167,Lithuania,LT,Homeland Union,276275,22.63,31,22.962962962963,206590,15.75,33,24.0875912408759,centre-right
+168,Lithuania,LT,Lithuanian Farmers and Greens Union,274108,22.45,54,40,53141,4.05,1,0.72992700729927,centre to centre-right
+169,Lithuania,LT,Social Democrats,183597,15.04,17,12.5925925925926,251610,19.18,38,27.7372262773723,centre-left
+170,Lithuania,LT,Liberal Movement,115361,9.45,14,10.3703703703704,117476,8.95,10,7.2992700729927,centre-right
+171,Lithuania,LT,Anti-Corruption Coalition (LCP–LPP),77114,6.32,1,0.740740740740741,3399,0.26,0,0,centre
+172,Lithuania,LT,Electoral Action of Poles in Lithuania,69810,5.72,8,5.92592592592593,79840,6.08,8,5.83941605839416,centre-right
+173,Lithuania,LT,Order and Justice,67817,5.55,8,5.92592592592593,100120,7.63,11,8.02919708029197,right-wing to far-right
+174,Lithuania,LT,Labour Party,59620,4.88,2,1.48148148148148,271520,20.69,29,21.1678832116788,centre to centre-left
+175,Lithuania,LT,The Way of Courage,3498,0.29,0,0,109448,8.34,7,5.10948905109489,centre
+176,Luxembourg,LU,Christian Social Peoples Party,999381,28.31,21,35,1103636,33.68,23,38.3333333333333,centre to centre-right
+177,Luxembourg,LU,Socialist Workers Party,621332,17.6,10,16.6666666666667,664586,20.28,13,21.6666666666667,centre-left
+178,Luxembourg,LU,Democratic Party,597080,16.91,12,20,597879,18.25,13,21.6666666666667,centre to centre-right
+179,Luxembourg,LU,The Greens,533893,15.12,9,15,331920,10.13,6,10,centre-left
+180,Luxembourg,LU,Alternative Democratic Reform Party,292388,8.28,4,6.66666666666667,217683,6.64,3,5,right-wing
+181,Luxembourg,LU,Pirate Party Luxembourg,227549,6.45,2,3.33333333333333,96270,2.94,0,0,syncretic
+182,Luxembourg,LU,The Left,193594,5.48,2,3.33333333333333,161759,4.94,2,3.33333333333333,left-wing
+183,Malta,MT,Labour Party,170976,55.04,37,55.2238805970149,167533,54.83,39,56.5217391304348,centre-left
+184,Malta,MT,Nationalist Party,135696,43.68,30,44.7761194029851,132426,43.34,30,43.4782608695652,centre-right
+185,Netherlands,NL,Peoples Party for Freedom and Democracy,2238351,21.3,33,22,2504948,26.6,41,27.3333333333333,centre-right
+186,Netherlands,NL,Party for Freedom,1372941,13.1,20,13.3333333333333,950263,10.1,15,10,right-wing to far-right
+187,Netherlands,NL,Christian Democratic Appeal,1301796,12.4,19,12.6666666666667,801620,8.5,13,8.66666666666667,centre-right
+188,Netherlands,NL,Democrats 66,1285819,12.2,19,12.6666666666667,757091,8,12,8,centre to centre-left
+189,Netherlands,NL,GroenLinks,959600,9.1,14,9.33333333333333,219896,2.3,4,2.66666666666667,centre-left to left-wing
+190,Netherlands,NL,Socialist Party,955633,9.1,14,9.33333333333333,909853,9.7,15,10,left-wing
+191,Netherlands,NL,Labour Party,599699,5.7,9,6,2340750,24.8,38,25.3333333333333,centre-left
+192,Netherlands,NL,Christian Union,356271,3.4,5,3.33333333333333,294586,3.1,5,3.33333333333333,centre to centre-right
+193,Netherlands,NL,Party for the Animals,335214,3.2,5,3.33333333333333,182162,1.9,2,1.33333333333333,centre
+194,Netherlands,NL,50PLUS,327131,3.1,4,2.66666666666667,177631,1.9,2,1.33333333333333,centre
+195,Netherlands,NL,Reformed Political Party,218950,2.1,3,2,196780,2.1,3,2,right-wing
+196,Netherlands,NL,Denk,216147,2.1,3,2,0,0,0,0,left-wing
+197,Netherlands,NL,Forum for Democracy,187162,1.8,2,1.33333333333333,0,0,0,0,right-wing
+198,Norway,NO,Labour Party (Ap),800949,27.4,49,28.9940828402367,874769,30.8,55,32.5443786982248,centre-left
+199,Norway,NO,Conservative Party (H),732897,25,45,26.6272189349112,760232,26.8,48,28.4023668639053,centre-right
+200,Norway,NO,Progress Party (FrP),444683,15.2,27,15.9763313609467,463560,16.3,29,17.1597633136095,right-wing
+201,Norway,NO,Centre Party (Sp),302017,10.3,19,11.2426035502959,155357,5.5,10,5.91715976331361,centre
+202,Norway,NO,Socialist Left Party (SV),176222,6,11,6.50887573964497,116021,4.1,7,4.14201183431953,left-wing
+203,Norway,NO,Liberal Party (V),127911,4.4,8,4.73372781065089,148275,5.2,9,5.32544378698225,centre
+204,Norway,NO,Christian Democratic Party (KrF),122797,4.2,8,4.73372781065089,158475,5.6,10,5.91715976331361,centre
+205,Norway,NO,Green Party (MDG),94788,3.2,1,0.591715976331361,79152,2.8,1,0.591715976331361,centre-left
+206,Norway,NO,Red Party (R),70522,2.4,1,0.591715976331361,30751,1.1,0,0,far-left
+207,Poland,PL,Law and Justice,5711687,37.58,235,51.19825708061,4295016,29.89,157,34.2047930283224,right-wing
+208,Poland,PL,Civic Platform,3661474,24.09,138,30.0653594771242,5629773,39.18,207,45.0980392156863,centre to centre-right
+209,Poland,PL,Kukiz15,1339094,8.81,42,9.15032679738562,0,0,0,0,right-wing to far-right
+210,Poland,PL,Modern,1155370,7.6,28,6.10021786492375,0,0,0,0,centre
+211,Poland,PL,'Polish People''s Party',779875,5.13,16,3.48583877995643,1201628,8.36,28,6.10021786492375,centre-right
+212,Poland,PL,'Palikot''s Movement',573552,3.775,0,0,1439490,10.02,40,8.71459694989107,centre-left
+213,Poland,PL,Democratic Left Alliance,573550,3.775,0,0,1184303,8.24,27,5.88235294117647,centre-left
+214,Portugal,PT,Social Democratic Peoples,1993504,36.86,102,45.3333333333333,2813069,50.37,132,57.3913043478261,centre-right
+215,Portugal,PT,Socialist,1747730,32.32,86,38.2222222222222,1566347,28.05,74,32.1739130434783,centre-left
+216,Portugal,PT,Left Bloc,550945,10.19,19,8.44444444444444,288923,5.17,8,3.47826086956522,left-wing to far-left
+217,Portugal,PT,Unitary Democratic Coalition,445901,8.25,17,7.55555555555556,441147,7.9,16,6.95652173913043,left-wing
+218,Portugal,PT,People Animals Nature,75170,1.39,1,0.444444444444444,57995,1.04,0,0,centre-left
+219,Romania,RO,Social Democratic Party,3204864,45.48,154,49.3589743589744,0,0,0,0,centre-left
+220,Romania,RO,National Liberal Party,1412377,20.04,69,22.1153846153846,0,0,0,0,centre to centre-right
+221,Romania,RO,Save Romania Union,625154,8.87,30,9.61538461538462,0,0,0,0,big tent
+222,Romania,RO,Democratic Union of Hungarians in Romania,435969,6.19,21,6.73076923076923,380656,5.14,18,4.56852791878173,centre to centre-right
+223,Romania,RO,Alliance of Liberals and Democrats,396386,5.62,20,6.41025641025641,0,0,0,0,centre to centre-right
+224,Romania,RO,Peoples Movement Party,376891,5.35,18,5.76923076923077,0,0,0,0,centre-right
+225,Romania,RO,Social Liberal Union,0,0,0,0,4344288,58.63,273,69.2893401015228,centre
+226,Romania,RO,Right Romania Alliance,0,0,0,0,1223189,16.51,56,14.2131979695432,centre-right
+227,Romania,RO,Peoples Party – Dan Diaconescu,0,0,0,0,1036730,13.99,47,11.9289340101523,left-wing
+228,Slovakia,SK,Direction – Social Democracy,737481,28.28,49,32.6666666666667,1134280,44.41,83,55.3333333333333,centre-left
+229,Slovakia,SK,Freedom and Solidarity,315558,12.1,21,14,150266,5.88,11,7.33333333333333,centre-right
+230,Slovakia,SK,Ordinary People and Independent Personalities,287611,11.03,19,12.6666666666667,218537,8.55,16,10.6666666666667,centre-right
+231,Slovakia,SK,Slovak National Party,225386,8.64,15,10,116420,4.55,0,0,right-wing
+232,Slovakia,SK,'People''s Party Our Slovakia',209779,8.04,14,9.33333333333333,40460,1.58,0,0,far-right
+233,Slovakia,SK,We Are Family,172860,6.63,11,7.33333333333333,3836,0.15,0,0,centre-right to right-wing
+234,Slovakia,SK,Most–Híd,169593,6.5,11,7.33333333333333,176088,6.89,13,8.66666666666667,centre to centre-right
+235,Slovakia,SK,Network,146205,5.61,10,6.66666666666667,0,0,0,0,centre-right
+236,Slovakia,SK,Christian Democratic Movement,128908,4.94,0,0,225361,8.82,16,10.6666666666667,centre-right
+237,Slovakia,SK,Slovak Democratic and Christian Union - Democratic Party,6938,0.27,0,0,155744,6.09,11,7.33333333333333,centre-right
+238,Slovenia,SI,Slovenian Democratic Party,222042,24.92,25,28.4090909090909,181052,20.71,21,23.8636363636364,right-wing
+239,Slovenia,SI,List of Marjan Šarec,112250,12.6,13,14.7727272727273,0,0,0,0,centre to centre-left
+240,Slovenia,SI,Social Democrats,88524,9.93,10,11.3636363636364,52249,5.98,6,6.81818181818182,centre-left
+241,Slovenia,SI,Modern Centre Party,86868,9.75,10,11.3636363636364,301563,34.49,36,40.9090909090909,centre to centre-left
+242,Slovenia,SI,The Left,83108,9.33,9,10.2272727272727,52189,5.97,6,6.81818181818182,left-wing to far-left
+243,Slovenia,SI,New Slovenia - Christian Democrats,63792,7.16,7,7.95454545454545,48846,5.59,5,5.68181818181818,centre-right
+244,Slovenia,SI,Party of Alenka Bratušek,45492,5.11,5,5.68181818181818,38293,4.38,4,4.54545454545455,centre to centre-left
+245,Slovenia,SI,Democratic Party of Pensioners of Slovenia,43889,4.93,5,5.68181818181818,88968,10.18,10,11.3636363636364,centre to centre-left
+246,Slovenia,SI,Slovenian National Party,37182,4.17,4,4.54545454545455,19218,2.2,0,0,far-right
+247,Spain,ES,'People''s Party (PP)',7941236,33.01,137,39.1428571428571,7236965,28.71,123,35.1428571428571,centre-right to right-wing
+248,Spain,ES,'Spanish Socialist Workers'' Party (PSOE)',5443846,22.63,85,24.2857142857143,5545315,22,90,25.7142857142857,centre-left
+249,Spain,ES,United We Can,5087538,21.15,71,20.2857142857143,5212711,20.68,69,19.7142857142857,left-wing
+250,Spain,ES,'Citizens–Party of the Citizenry (C''s)',3141570,13.06,32,9.14285714285714,3514528,13.94,40,11.4285714285714,centre to centre-right
+251,Spain,ES,Democracy and Freedom (DiL),483488,2.01,8,2.28571428571429,567253,2.25,8,2.28571428571429,centre-right
+252,Spain,ES,Basque Nationalist Party (EAJ/PNV),287014,1.19,5,1.42857142857143,302316,1.2,6,1.71428571428571,centre-right
+253,Spain,ES,Basque Country Unite (EH Bildu),184713,0.77,2,0.571428571428571,219125,0.87,2,0.571428571428571,left-wing
+254,Spain,ES,Canarian Coalition–Canarian Nationalist Party (CCa–PNC),78253,0.33,1,0.285714285714286,81917,0.32,1,0.285714285714286,centre to centre-right
+255,Spain,ES,Republican Left–Catalonia Yes (ERC–CatSí),639652,2.66,9,2.57142857142857,604285,2.4,9,2.57142857142857,centre-left to left-wing
+256,Spain,ES,United Left–Popular Unity in Common (IU–UPeC),0,0,0,0,926783,3.68,2,0.571428571428571,left-wing
+257,Sweden,SE,Social Democratic Party,1830386,28.26,100,28.6532951289398,1932711,31.01,113,32.378223495702,centre-left
+258,Sweden,SE,Moderate Party,1284698,19.84,70,20.0573065902579,1453517,23.33,84,24.0687679083095,centre-right
+259,Sweden,SE,Sweden Democrats,1135627,17.53,62,17.7650429799427,801178,12.86,49,14.0401146131805,right-wing to far-right
+260,Sweden,SE,Centre Party,557500,8.61,31,8.88252148997135,380937,6.11,22,6.30372492836676,centre to centre-right
+261,Sweden,SE,Left Party,518454,8,28,8.02292263610315,356331,5.72,21,6.01719197707736,left-wing
+262,Sweden,SE,Christian Democrats,409478,6.32,22,6.30372492836676,284806,4.57,16,4.58452722063037,centre-right to right-wing
+263,Sweden,SE,Liberals,355546,5.49,20,5.73065902578797,337773,5.42,19,5.44412607449857,centre-right
+264,Sweden,SE,Green Party,285899,4.41,16,4.58452722063037,429275,6.89,25,7.16332378223496,centre-left
+265,Switzerland,CH,'Swiss People''s Party',740967,29.4,65,32.6633165829146,648675,26.6,54,27.1356783919598,right-wing to far-right
+266,Switzerland,CH,Social Democratic Party,475071,18.8,43,21.608040201005,457317,18.7,46,23.1155778894472,centre-left to left-wing
+267,Switzerland,CH,FDP.The Liberals,413444,16.4,33,16.5829145728643,368951,15.1,30,15.0753768844221,centre-right
+268,Switzerland,CH,'Christian Democratic People''s Party',293653,11.6,27,13.5678391959799,300544,12.3,28,14.070351758794,centre to centre-right
+269,Switzerland,CH,Green Party,177944,7.1,11,5.52763819095477,205984,8.4,15,7.53768844221105,left-wing
+270,Switzerland,CH,Green Liberal Party,116641,4.6,7,3.51758793969849,131436,5.4,12,6.03015075376884,centre
+271,Switzerland,CH,Conservative Democratic Party,103476,4.1,7,3.51758793969849,132279,5.4,9,4.52261306532663,centre to centre-right
+272,Switzerland,CH,'Evangelical People''s Party',47908,1.9,2,1.00502512562814,48789,2,2,1.00502512562814,centre to centre-left
+273,Switzerland,CH,Ticino League,25215,1,2,1.00502512562814,19657,0.8,2,1.00502512562814,right-wing
+274,Switzerland,CH,Swiss Party of Labour,10086,0.4,1,0.50251256281407,21482,0.5,0,0,left-wing to far-left
+275,Switzerland,CH,'Geneva Citizens'' Movement',7564,0.3,1,0.50251256281407,10714,0.4,1,0.50251256281407,right-wing
+276,United Kingdom,GB,Conservative Party,13636684,42.4,317,48.9197530864198,11299609,36.8,330,50.9259259259259,centre-right
+277,United Kingdom,GB,Labour Party,12878460,40,262,40.4320987654321,9347273,30.4,232,35.8024691358025,centre-left
+278,United Kingdom,GB,Scottish National Party,977569,3,35,5.40123456790123,1454436,4.7,56,8.641975308642,centre-left
+279,United Kingdom,GB,Liberal Democrats,2371910,7.4,12,1.85185185185185,2415916,7.9,8,1.2345679012346,centre to centre-left
+280,United Kingdom,GB,Democratic Unionist Party,292316,0.9,10,1.54320987654321,184260,0.6,8,1.2345679012346,centre-right to right-wing
+281,United Kingdom,GB,Sinn Féin,238915,0.7,7,1.08024691358025,176232,0.6,4,0.6172839506173,centre-left to left-wing
+282,United Kingdom,GB,Plaid Cymru,164466,0.5,4,0.617283950617284,181704,0.6,3,0.462962962963,centre-left to left-wing
+283,United Kingdom,GB,Green Party,525435,1.6,1,0.154320987654321,1111603,3.6,1,0.1543209876543,left-wing
+284,United Kingdom,GB,Social Democratic & Labour Party,95419,0.3,0,0,99809,0.3,3,0.462962962963,centre-left
+285,United Kingdom,GB,Ulster Unionist Party,83280,0.3,0,0,114935,0.4,2,0.3086419753086,centre-right
+286,United Kingdom,GB,UK Independence Party,594068,1.8,0,0,3881099,12.6,1,0.1543209876543,right-wing
