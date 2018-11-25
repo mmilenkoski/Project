@@ -32,14 +32,14 @@ We noticed at the end of our analysis that we might need the years of the previo
 
 # A list of internal milestones up until project milestone 3
 
-## Milestone 3.1 - Create dataset with years of elections
+### Milestone 3.1 - Create dataset with years of elections
 
-## Mileston 3.2 - Analyze Wikipedia dataset
+### Mileston 3.2 - Analyze Wikipedia dataset
 
 - Identify the countries with biggest shift in political power / popularity between the last two elections. 
 - Identify which countries have moved to the left and which countries have moved to the right.
 
-## Mileston 3.3 - Compare GDELT and Wikipedia datasets
+### Mileston 3.3 - Compare GDELT and Wikipedia datasets
 
 - Explore the relationship between the election results and the average tone of GDELT events. 
 - Explore the relationship between the election results and the Goldstein Scale of GDELT events.
@@ -50,24 +50,23 @@ We noticed at the end of our analysis that we might need the years of the previo
 - Explore what are the major differences in the characteristics of GDELT events related to countries with nationalist and liberal governments, and between countries which have moved to the right
 and to the left recently.
 
-## Milestone 3.4 - Compare World Bank and Wikipedia datasets
+### Milestone 3.4 - Compare World Bank and Wikipedia datasets
 
 - Explore the relationships between indicators from the World Bank data and the election results. We plan to repeat the same analysis listed for the characteristics of the GDELT events with the
 indicators from the World Bank. Does change in some indicators cause political shift, and does political shift cause a change in some indicators. Some of the indicators we plan to use are number of refugees, political stability, education, urban population, economic growth etc.
 
-## Milestone 3.5 - Compare World Bank and GDELT dataset
+### Milestone 3.5 - Compare World Bank and GDELT dataset
 
 - Explore the relationship between characteristics of GDELT events and some World Bank indicators
 - For example, does a decrease in stability / rise in number of refugees lead to decrease in AvgTone / Goldstein Scale of events. 
 
-## Milestone 3.6 - Create visuzalizations
+### Milestone 3.6 - Create visuzalizations
 
 - Visualize the shift in political power of each country on the map of Europe. 
 - Visualize the ruling political position of each country. 
 - Visualization with pins which upon clicked show some interesting information about the country in regards to the GDELT events, election results or development indicators. 
 - Map with dropdown menu in which a user can select a country and observe the interaction of a country with the other EEA countries through the average tone, Goldstein Scale and frequency of certain types of events between the country and all others.
 
-## Milestone 3.7 - Create data story
+### Milestone 3.7 - Create data story
 
 - Combine the most interesting findings and visualizations in a final data story. 
-
