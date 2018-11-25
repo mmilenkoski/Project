@@ -28,6 +28,8 @@ https://data.worldbank.org/indicator/SM.POP.REFG?fbclid=IwAR3zh3W9eXYD8s09Th_CwK
 
 These datasets can be found in the folders **additional_data/political_stability** and **additional_data/refugees**. However, the World Bank data is provided in the same format, and we have presented in this Milestone the pipeline for extracting only the countries and period of interest for us from the provided format. In this way, we can make use of additional data from World Bank in our analysis for the final project. Specifically, we plan to use some of the over 800 indicators provided in the dataset **World Development Indicators** (https://data.worldbank.org/indicator/). Some indicators of interest are Unemployment Rate, GDP per capita, Percent of Urban Population etc.
 
+Additionally, we have obtained a Geo JSON map of Europe from here: https://github.com/leakyMirror/map-of-europe. We plan to use this map for creating visualizations of our findings. The map can be found in the folder **additional_data/europe_map**.
+
 We noticed at the end of our analysis that we might need the years of the previous two elections in each country, but we did not have time to create the dataset for this milestone. We plan to create such dataset for the next milestone using Wikipedia. 
 
 ## Project Structure
