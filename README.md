@@ -30,6 +30,18 @@ These datasets can be found in the folders **additional_data/political_stability
 
 We noticed at the end of our analysis that we might need the years of the previous two elections in each country, but we did not have time to create the dataset for this milestone. We plan to create such dataset for the next milestone using Wikipedia. 
 
+## Project Structure
+The project is organized as follows:
+
+    .
+    ├── aditional_data           # World Bank datasets and map of Europe
+    ├── gdelt_spark_dataset      # Script and guide for filtering GDELT dataset
+    ├── report                   # Latex files provided by TAs
+    ├── wikipedia_datasets       # Raw, intermediate and final wikipedia dataset, plus notebooks for creation process
+    ├── README.md                # README file
+    ├── EU_map_[123].html        # Folium maps in HTML
+    └── **milestone_2.ipynb**    # Main notebook for mileston 2
+
 # A list of internal milestones up until project milestone 3
 
 ### Milestone 3.1 - Create dataset with years of elections
