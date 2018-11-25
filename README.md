@@ -2,7 +2,7 @@
 
 # Abstract
 
-The last couple of years have been defined by the dramatically increasing political polarization of the world. The main idea of this project is to investigate the main causes and effects of this massive shift in the political landscape.
+The last couple of years have been defined by the dramatically increasing political polarization of Europe. The main idea of this project is to investigate the main causes and effects of this massive shift in the political landscape.
 
 By observing the countries which were most affected by the populist movement, we want to identify the main factors that contribute to this trend. Our plan is to analyze the effect of terrorist attacks, immigration waves and similar events on the likelihood of a country’s population to vote for right-leaning parties.
 
@@ -14,38 +14,38 @@ The final idea is to investigate whether the claim of the populists that nationa
 3. How does the quality of life in a country correlate to the ideology of its ruling party?
 
 # Dataset
-For this project, we plan to use the GDELT dataset enriched with datasets for country-specific statistics. The GDELT dataset provides us information about events between actors. The events are enriched with metadata about the two actors, and the event itself. Using the country codes of actors, and the average tone of the event, we can investigate whether countries governed by conservative parties are more aggressive towards other countries. Additionally, we can observe what is the average tone of events between different ethnicities and religions in countries governed by liberal and conservative parties. We can also investigate the popularity of a government by using the type of actors, the type and class of events, and the Goldstein Scale attribute which estimates the impact of the event on the stability of a country.  In addition, we are interested in the effects of terrorist attacks and similar events on the average tone and Goldstein Scale, popularity of the government, hate speech and similar aspects of news related to the country of interest. 
+For this project, we plan to use the GDELT dataset enriched with datasets for country-specific statistics. The GDELT dataset provides us information about events between actors. The events are enriched with metadata about the two actors, and the event itself. Using the country codes of actors, and the average tone of the event, we can investigate whether countries governed by conservative parties are more aggressive towards other countries. Additionally, we can observe what is the average tone of events between different ethnicities and religions in countries governed by liberal and conservative parties. We can also investigate the popularity of a government by using the type of actors, the type and class of events, and the Goldstein Scale attribute which estimates the impact of the event on the stability of a country.  In addition, we are interested in the effects of terrorist attacks and similar events on the average tone and Goldstein Scale, popularity of the government, hate speech and similar aspects of news related to the country of interest. We have filtered the GDELT dataset to obtain only the events in which either one of the actors is from a country from EU/EEA or the event itself took place in a country from EU/EEA. We limit our analysis to the European countries for easier and more meaningful analysis. Countries from EU/EEA are all democratic and members of same the association, so comparing them will yield more meaningful analysis than comapring all countries in the world. Furthermore, we are much more informed about the political situation of Europe than in the rest of the world, so we will be able to better interpret the obtained results. 
 
-We plan to enrich this information with other datasets including, but not limited to:
+In addition to the GDELT dataset we have create our own dataset for the election results in the previous two elections for all countries of interest. Details about the creation process and the format of the dataset can be found in the notebook **milestone_2**. The raw data, intermediate results and the final dataset can be found in the folder **wikipedia_datasets**. In the same folder, there are the notebooks used for cleaning the raw data and creating the final dataset. We want to point out that some small incosistencies and mistakes were fixed manually after the creation of the dataset. The final dataset can be found in the file **wikipedia_datasets/country_party_dataset.csv**.
+
+Additionally, we plan to use some data from World Bank. In the current milestone we have presented the following two datasets:
 
 1. **Political Stability And Absence Of Violence/Terrorism**: Estimates likelihood of political instability and politically-motivated violence for each country.  
 https://datacatalog.worldbank.org/political-stability-and-absence-violenceterrorism-estimate
-  
-2. **Worldwide Governance Indicators**: Provides governance indicators in respect to Voice and Accountability, Political Stability and Absence of Violence, Government Effectiveness, Regulatory Quality,Rule of Law and Control of Corruption.  
-https://datacatalog.worldbank.org/dataset/worldwide-governance-indicators 
 
-3. **World Development Indicators**: Includes more than 800 estimators covering more than 150 different economies. Provides national, regional, and global estimates.  
-https://datacatalog.worldbank.org/dataset/world-development-indicators  
+3. **Refugee population by country or territory of asylum**: Includes the number of refugees which were grandet Asylum in each country. 
+https://data.worldbank.org/indicator/SM.POP.REFG?fbclid=IwAR3zh3W9eXYD8s09Th_CwKK4Uh-TtmTBOEpPOuJh-RYh3tfVyMEWbXfe_Zo 
 
-In general, the site https://data.worldbank.org/ provides many datasets for country-specific year-by-year statistics, and we will decide which ones to use depending on the factors by which we want to compare different countries. 
+However, the World Bank data is provided in the same format, and we have presented in this Milestone the pipeline for extracting only the countries and period of interest for us from the provided format. In this way, we can make use of additional data from World Bank in our analysis for the final project. Specifically, we plan to use some of the over 800 indicators provided in the dataset **World Development Indicators** (https://data.worldbank.org/indicator/). Some indicators of interest are Unemployment Rate, GDP per capita, Percent of Urban Population etc.
 
-# A list of internal milestones up until project milestone 2
-### Milestone 2.1
-  • Explore the GDELT dataset in detail, identify the relevant information and perform data wrangling and preprocessing.
-  
-  • Explore additional literature (papers, articles, similar projects) that might give us interesting insights and additional ideas on creating the data story.
-  
-  • Explore datasets containing statistics for the safety, economic growth and quality of life in each country.
-  
-  • Obtain an initial understanding on how to utilize the cluster for the processing of the GDELT dataset.
-### Milestone 2.2
-  • Combine the GDELT datasets with the extracted relevant statistics from the other datasets in order to draw some preliminary conclusions concerning the research questions.
-  
-  • Explore different methods for the data visualization.
-### Milestone 2.3
-  • Add the necessary documentation to the notebook, as well as explanation of the used methods so that it is understandable for examination.
-  
-  • Provide illustrative visualizations and understandable results.
+We noticed at the end of our analysis that we might need the years of the previous two elections in each country, but we did not have time to create the dataset for this milestone. We plan to create such dataset for the next milestone using Wikipedia. 
+
+# A list of internal milestones up until project milestone 3
+
+## Mileston 3.1
+- Identify the countries with biggest shift in political power / popularity between the last two elections. 
+- Identify which countries have moved to the left and which countries have moved to the right.
+- Explore the relationship between the election results and the average tone of GDELT events. 
+- Explore the relationship between the election results and the Goldstein Scale of GDELT events.
+- Explore the relationship between the election results and the frequency of some types of GDELT events.
+- Can some characteristics of the GDELT events related to a country predict a major shift in political power?
+- Does a shift in political power cause change in the average tone, Goldstein Scale and frequency of some types of GDELT events. 
+- Explore each of the above mentioned relationships in respect to internal events between actors from same country, and external events toward neighbouring or other countries in general.
+- Explore what are the major differences in the characteristics of GDELT events related to countries with nationalist and liberal governments, and between countries which have moved to the right
+and to the left recently.
+- Explore the relationships between indicators from the World Bank data and the election results. We plan to repeat the same analysis listed for the characteristics of the GDELT events with the
+indicators from the World Bank. Does change in some indicators cause political shift, and does political shift cause a change in some indicators. Some of the indicators we plan to use are number of refugees, political stability, education, urban population, economic growth etc.
+- Create some interesting visualizations. For example, visualize the shift in political power of each country on the map of Europe. Visualize the ruling political position of each country. Visualization with pins which upon clicked show some interesting information about the country in regards to the GDELT events, election results or development indicators. We plan to create a map with dropdown menu in which a user can select a country and observe the interaction of a country with the other EEA countries through the average tone, Goldstein Scale and frequency of certain types of events between the country and all others.
 
 # Questions for TAa
 1. Do you know any other datasets which might be useful for our project?
