@@ -40,7 +40,7 @@ The project is organized as follows:
     ├── wikipedia_datasets       # Raw, intermediate and final wikipedia dataset, plus notebooks for creation process
     ├── README.md                # README file
     ├── EU_map_[123].html        # Folium maps in HTML
-    └── **milestone_2.ipynb**    # Main notebook for mileston 2
+    └── milestone_2.ipynb        # Main notebook for mileston 2
 
 # A list of internal milestones up until project milestone 3
 
