@@ -36,8 +36,6 @@ The project is organized as follows:
     ├── milestone_3.ipynb        # Main notebook for milestone 2
     └── preprocessing_indicators # helper script for plotting scatter plots of the indicators
 
-# A list of internal milestones up until project milestone 3
-
 # Contributions
 
 <b> Martin Milenkoski </b> - Topic idea, writing final data story, analysis and visualisations of Wikipedia dataset
