@@ -1,5 +1,7 @@
 # The Rise of the Right
 
+Link to the data story: <a src="https://mmilenkoski.github.io/"></a>
+
 # Abstract
 
 The last couple of years have been defined by the dramatically increasing political polarization of Europe. The main idea of this project is to investigate the main causes and effects of this massive shift in the political landscape.
