@@ -1,0 +1,3 @@
+https://data.worldbank.org/indicator/SM.POP.TOTL.ZS?view=chart -> international_migrant_stock
+https://data.worldbank.org/indicator/SM.POP.NETM?view=chart -> net_migration
+https://data.worldbank.org/indicator/SM.POP.REFG?view=chart -> refugee_population

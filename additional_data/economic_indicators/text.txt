@@ -1,0 +1,14 @@
+export_of_gdp vs GDP_per_capita vs trade percent -> becoming less export oriented
+
+https://data.worldbank.org/indicator/NE.EXP.GNFS.KD.ZG?view=chart -> export_growth.csv
+https://data.worldbank.org/indicator/NE.EXP.GNFS.ZS?view=chart -> export_of_gdp.csv
+https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS?view=chart -> foreign_direct_invesment_in
+https://data.worldbank.org/indicator/BM.KLT.DINV.WD.GD.ZS?view=chart -> foreign_direct_invesment_out
+https://data.worldbank.org/indicator/NY.GDP.PCAP.KD?view=chart -> GDP_per_capita
+https://data.worldbank.org/indicator/NY.GDP.PCAP.KD.ZG?view=chart -> GDP_per_capita_growth
+https://data.worldbank.org/indicator/BX.GSR.MRCH.CD?view=chart -> goods_export
+https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?view=chart -> government_dept
+https://data.worldbank.org/indicator/SI.DST.10TH.10 -> income_share_held_by_highest_10
+https://data.worldbank.org/indicator/SI.DST.FRST.10?view=chart -> income_share_held_by_lowest_10
+https://data.worldbank.org/indicator/NE.TRD.GNFS.ZS?view=chart -> trade
+https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?view=chart -> unemployment

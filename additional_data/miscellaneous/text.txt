@@ -1,0 +1,8 @@
+https://data.worldbank.org/indicator/IC.BUS.EASE.XQ?view=chart&fbclid=IwAR3eWquXHXPKQ5LpZHTHUPyqyLWIfSrCPi7Oyd7HJmzb54KxFtvPd6hcGQA -> ease_of_doing_business
+http://databank.worldbank.org/data/reports.aspx?source=1181&series=GE.EST -> government effectivnes
+http://databank.worldbank.org/data/reports.aspx?source=1181&series=PV.EST# -> political_stability
+http://databank.worldbank.org/data/reports.aspx?source=1181&series=RQ.EST# -> regulatory_quality
+https://data.worldbank.org/indicator/SP.RUR.TOTL?view=chart -> rural population
+https://data.worldbank.org/indicator/SI.POV.RUGP -> rural poverty
+http://databank.worldbank.org/data/reports.aspx?source=1181&series=VA.EST# -> voica_and_accountability
+

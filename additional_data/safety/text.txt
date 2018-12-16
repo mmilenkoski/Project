@@ -1,0 +1,3 @@
+http://databank.worldbank.org/data/reports.aspx?source=1181&series=CC.EST# -> control of corruption
+https://data.worldbank.org/indicator/MS.MIL.XPND.GD.ZS?view=chart -> military expenses zgolemeni
+http://databank.worldbank.org/data/reports.aspx?source=1181&series=RL.EST# -> rule of law
