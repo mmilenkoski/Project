@@ -1,4 +1,4 @@
-# The Rise of the Right
+# Rise of the Political Right
 
 Link to the data story: https://mmilenkoski.github.io/
 
