@@ -38,7 +38,7 @@ The project is organized as follows:
 
 # Contributions
 
-<b> Martin Milenkoski </b> - Topic idea, writing final data story, analysis and visualisations of Wikipedia dataset
+<b> Martin Milenkoski </b> - Topic idea, writing final data story, analysis and visualisations of Wikipedia dataset, final presentation
 
 <b> Blagoj Mitrevski </b> - Analysis and visualizations of World Indicators dataset, crawling and preprocessing of datasets
 
