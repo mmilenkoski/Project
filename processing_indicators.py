@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import json
 import seaborn as sns
 
+# This function is used to read all the data needed for ploting the indicator data
 def read_eveything(indicator_path, indicator=True):
     parties = pd.read_csv("data/country_party_dataset.csv", index_col=0)
     positions = pd.read_csv("data/positions_scale.csv")
@@ -34,12 +35,6 @@ def read_eveything(indicator_path, indicator=True):
     election_years["prev_el_year"] = election_years["prev_el_year"].apply(lambda x: x-1 if x == 2018 else x)
     election_years["last_el_year"] = election_years["last_el_year"].apply(lambda x: x-1 if x == 2018 else x)
     
-    
-    # load datasets
-    #indicator = pd.read_csv("additional_data/refugees/refugee_population.csv", header=2, sep=',')
-    #indicator = pd.read_csv("additional_data/social_freedom/income_share_held_by_highest_10.csv", header=2, sep=',')
-    #indicator = pd.read_csv("additional_data/social_freedom/government_effectiveness.csv", sep=',')
-    #indicator["2007"] = indicator["2008"]
     
     if indicator:
         indicator = pd.read_csv(indicator_path, header=2, sep=',')
@@ -84,6 +79,7 @@ def read_eveything(indicator_path, indicator=True):
     
     return elections_indicator, parties
 
+# This function plots a regression plot for visualizing the indicator data
 def plot_everything(elections_indicator, parties, column_x, column_y, hide_germany=False, only_right=False, params={}):
     plt.style.use('seaborn-poster')
     merged = pd.merge(elections_indicator, parties)
@@ -92,16 +88,6 @@ def plot_everything(elections_indicator, parties, column_x, column_y, hide_germa
     #merged = merged[merged['Country'] != 'France']
     if only_right:
         merged = merged[merged[column_x] > 0]
-    # plt.scatter(x=merged[column_x], y=merged[column_y])
-    # if "x_label" in params.keys():
-    #    plt.xlabel(params["x_label"])
-    # if "y_label" in params.keys():
-    #    plt.ylabel(params["y_label"])
-    # if "title" in params.keys():
-    #    plt.title(params["title"])
-    # if "save_1" in params.keys():
-    #     plt.savefig(params["save_1"], bbox_inches="tight", dpi=200)
-    # plt.show()
     
     plt.subplots(figsize=(10,6)) 
     sns.regplot(x=column_x, y=column_y, data=merged)
