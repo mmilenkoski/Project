@@ -39,5 +39,7 @@ The project is organized as follows:
 # Contributions
 
 <b> Martin Milenkoski </b> - Topic idea, writing final data story, analysis of Wikipedia and World Indicator datasets
+
 <b> Blagoj Mitrevski </b> - Visualizations of Wikipedia and World Indicators, crawling and preprocessing of datasets
+
 <b> Davor Todorovski </b> - Analysis and visualization of the GDELT dataset
