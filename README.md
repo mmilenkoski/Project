@@ -33,7 +33,7 @@ The project is organized as follows:
     ├── images_and_maps          # All visualizations used in the final story
     ├── wikipedia_datasets       # Raw, intermediate and final wikipedia dataset, plus notebooks for creation process
     ├── README.md                # README file
-    ├── milestone_3.ipynb        # Main notebook for milestone 2
+    ├── milestone_3.ipynb        # Main notebook for milestone 3
     └── preprocessing_indicators # helper script for plotting scatter plots of the indicators
 
 # Contributions
