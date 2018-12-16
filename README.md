@@ -1,6 +1,6 @@
 # The Rise of the Right
 
-Link to the data story: <a src="https://mmilenkoski.github.io/">link</a>.
+Link to the data story: https://mmilenkoski.github.io/
 
 # Abstract
 
